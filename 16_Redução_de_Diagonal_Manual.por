@@ -30,11 +30,3 @@ programa {
     escreva("Soma da diagonal: ", soma)
   }
 }
-
-
-
-//Exercício 16: Redução de Diagonal Manual
-//Instancie uma matriz de números inteiros de tamanho 3x3. Peça para o usuário digitar os dados de todas as
-//células manualmente utilizando instruções isoladas. Em seguida, efetue de forma direta a soma dos elementos
-//que compõem a diagonal principal (isto é, as posições [0][0] , [1][1] e [2][2] ) e apresente apenas o total
-//final na tela.
